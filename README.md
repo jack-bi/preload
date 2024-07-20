@@ -1,4 +1,4 @@
-# preload page
+# Preload page
 
 ## Project setup
 ```
